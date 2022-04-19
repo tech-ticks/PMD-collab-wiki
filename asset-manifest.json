@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/PMD-collab-wiki/static/css/main.c2ad347e.css",
-    "main.js": "/PMD-collab-wiki/static/js/main.64cf7219.js",
+    "main.css": "/PMD-collab-wiki/static/css/main.01984290.css",
+    "main.js": "/PMD-collab-wiki/static/js/main.e90227e3.js",
     "static/media/background.png": "/PMD-collab-wiki/static/media/background.72174b13a113d67468dd.png",
     "index.html": "/PMD-collab-wiki/index.html",
-    "main.c2ad347e.css.map": "/PMD-collab-wiki/static/css/main.c2ad347e.css.map",
-    "main.64cf7219.js.map": "/PMD-collab-wiki/static/js/main.64cf7219.js.map"
+    "main.01984290.css.map": "/PMD-collab-wiki/static/css/main.01984290.css.map",
+    "main.e90227e3.js.map": "/PMD-collab-wiki/static/js/main.e90227e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2ad347e.css",
-    "static/js/main.64cf7219.js"
+    "static/css/main.01984290.css",
+    "static/js/main.e90227e3.js"
   ]
 }
